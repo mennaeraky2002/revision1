@@ -268,7 +268,7 @@ margin-left: -40%;
        background-position: center;
        background-size: cover;
        overflow: hidden;
-       width: 100%;
+   
     }
     .div1 .iage img {
         align-content: center;
@@ -347,7 +347,7 @@ margin-bottom: 100px;
             margin-bottom: 100px;   
         }
         .div5 img{
-            width: 381px;
+            width: 375px;
         }
         .div5{
             margin-bottom: 70px;
